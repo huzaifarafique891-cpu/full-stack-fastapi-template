@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the Full Stack FastAPI Template! 🙇
 
-## Discussions First
+## Discussions Firstljhouhfo
 
 For **big changes** (new features, architectural changes, significant refactoring), please start by opening a [GitHub Discussion](https://github.com/fastapi/full-stack-fastapi-template/discussions) first. This allows the community and maintainers to provide feedback on the approach before you invest significant time in implementation.
 
